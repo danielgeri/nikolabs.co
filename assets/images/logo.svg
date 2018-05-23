@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="213px" height="87px" viewBox="0 0 213 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>final</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M180,87 C161.774603,87 147,72.2253967 147,54 C147,35.7746033 161.774603,21 180,21 C198.225397,21 213,35.7746033 213,54 C213,72.2253967 198.225397,87 180,87 Z M180,73 C190.49341,73 199,64.4934102 199,54 C199,43.5065898 190.49341,35 180,35 C169.50659,35 161,43.5065898 161,54 C161,64.4934102 169.50659,73 180,73 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="final">
+            <polygon id="Path-3" fill="#000000" points="0 0 0 86 14 86 14 20 42 50 42 87 56 87 56 0 42 0 42 30 14 0"></polygon>
+            <polygon id="Path-4" fill="#000000" points="66 21 80 21 80 87 66 87"></polygon>
+            <circle id="Oval-2" fill="#000000" cx="73" cy="9" r="9"></circle>
+            <path d="M90,0 L90,87 L104,87 L104,57 L133,87 L143,77 L112,44.5 C122,38.1666667 130.333333,28.3333333 137,15 C129,10.3333333 125,8 125,8 C119.666667,18.6666667 112.666667,26.6666667 104,32 C104,28.6666667 104,18 104,0 L90,0 Z" id="Path-5" fill="#000000"></path>
+            <polygon id="Path-6" fill="#C0392B" points="147 0 147 14 213 14 213 0"></polygon>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Oval-3" fill="#000000" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
