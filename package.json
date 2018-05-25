@@ -1,0 +1,25 @@
+{
+  "name": "nikolabs.co",
+  "version": "1.0.0",
+  "description": "nikolabs.co",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "gulp:watch": "gulp --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielgeri/nikolabs.co.git"
+  },
+  "author": "Daniel Geri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielgeri/nikolabs.co/issues"
+  },
+  "homepage": "https://github.com/danielgeri/nikolabs.co#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "pug": "^2.0.3"
+  }
+}
